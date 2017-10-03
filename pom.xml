@@ -13,6 +13,8 @@
         <module>02_factory</module>
         <module>03_builder</module>
         <module>04_prototype</module>
+        <module>05_adapter</module>
+        <module>06_proxy</module>
     </modules>
 
 
