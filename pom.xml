@@ -15,6 +15,9 @@
         <module>04_prototype</module>
         <module>05_adapter</module>
         <module>06_proxy</module>
+        <module>07_bridge</module>
+        <module>08_composite</module>
+        <module>09_decorator</module>
     </modules>
 
 
