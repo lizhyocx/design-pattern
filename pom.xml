@@ -18,6 +18,9 @@
         <module>07_bridge</module>
         <module>08_composite</module>
         <module>09_decorator</module>
+        <module>10_facade</module>
+        <module>11-flyweight</module>
+        <module>12_chainofresp</module>
     </modules>
 
 
