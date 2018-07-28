@@ -21,6 +21,8 @@
         <module>10_facade</module>
         <module>11-flyweight</module>
         <module>12_chainofresp</module>
+        <module>13_iterator</module>
+        <module>14_mediator</module>
     </modules>
 
 
