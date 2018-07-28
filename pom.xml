@@ -23,6 +23,8 @@
         <module>12_chainofresp</module>
         <module>13_iterator</module>
         <module>14_mediator</module>
+        <module>15_command</module>
+        <module>16_strategy</module>
     </modules>
 
 
