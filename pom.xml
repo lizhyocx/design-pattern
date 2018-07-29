@@ -25,6 +25,10 @@
         <module>14_mediator</module>
         <module>15_command</module>
         <module>16_strategy</module>
+        <module>17_templatemethod</module>
+        <module>18_state</module>
+        <module>19_observer</module>
+        <module>20_memento</module>
     </modules>
 
 
